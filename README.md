@@ -1,18 +1,16 @@
 # highschool
+
+### # 개요 ###
 - 이 페이지는 "2022 제주ICT이노베이션 스퀘어 확산산업-인공지능 활용 에듀테크 기획자 과정" 의 
 - [인공지능 데이터 활용 이론과 실습] 내용으로 
 - 파이썬 프로그래밍을 사용하여 머신러닝과 딥러닝을 활용한 빅데이터 EDA 분석 과정 학습 중에  
 - 완성된 실습코드를 공유하기 위한 공간입니다.
 
-### 자료 공유 기간 ###
+### # 자료 공유 기간 ###
 2022.07.21 ~ 2022.08.31
 
 
-### 폴더 안내 ###
-
-
-
-### 수업 관련 사이트 ###
+### # 수업 관련 사이트 ###
 - **과정메인(Notion)**  https://boulder-source-fc6.notion.site/be3b4ba173aa41fcb9857c29d7b0b290 
 - **수업중실습코드(Slack)** https://app.slack.com/client/T03MQ5EE388/C03NZ7T5FB4 
 - **자료공유(GoogleDrive)** https://drive.google.com/drive/folders/1xJWJ__3oSsOEcXHLg54cvQqvP8C_RxTf 
