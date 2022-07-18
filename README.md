@@ -16,9 +16,15 @@
 |**02-파이썬라이브러리** |파이썬 라이브러리 학습 시간에 사용된 코드 |
 |**03-빅데이터분석** |빅데이터분석 Proejct 시간에 사용된 코드 |
 |**04-머신러닝-딥러닝** |머신러닝&딥러닝 시간에 사용된 코드 |
-|--------|------|
 
 
+### 수업 관련 사이트 ###
+**과정메인(Notion)**  https://boulder-source-fc6.notion.site/be3b4ba173aa41fcb9857c29d7b0b290 
+**수업중실습코드(Slack)** https://app.slack.com/client/T03MQ5EE388/C03NZ7T5FB4 
+**자료공유(GoogleDrive)** https://drive.google.com/drive/folders/1xJWJ__3oSsOEcXHLg54cvQqvP8C_RxTf 
+**완성코드(Github)**
+
+-----------------------------
 
 ### 1. 파이썬 설치
 www.python.org 
