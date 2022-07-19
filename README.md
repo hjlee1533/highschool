@@ -42,6 +42,6 @@ www.python.org
 |seaborn           |pip install seaborn |
 |scikit-learn      |pip install scikit-learn |
 |tensorflow        |pip install tensroflow==2.5.0 |
-|opencv            | pip install opencv-python <br>    
-                    pip install opencv-contrib-python |
+|opencv            | pip install opencv-python |    
+|                   | pip install opencv-contrib-python |
 * 그 외 필요한 라이브러리는 수업시간에 설치 안내함
