@@ -33,13 +33,15 @@ www.python.org
 
 ### 3. 수업시간에 사용할 주요 파이썬 라이브러리
 
-* Jupyter notebook  > pip install jupyter
-* numpy             > pip install numpy
-* pandas            > pip install pandas
-* matplotlib        > pip install matplotlib
-* seaborn           > pip install seaborn
-* scikit-learn      > pip install scikit-learn
-* tensorflow        > pip install tensroflow==2.5.0
-* opencv            > pip install opencv-python     
-                    > pip install opencv-contrib-python
+|라이브러리명| 설치명령어|
+|-----|--------|
+|Jupyter notebook  |pip install jupyter |
+|numpy             |pip install numpy |
+|pandas            |pip install pandas |
+|matplotlib       |pip install matplotlib |
+|seaborn           |pip install seaborn |
+|scikit-learn      |pip install scikit-learn |
+|tensorflow        |pip install tensroflow==2.5.0 |
+|opencv            | pip install opencv-python <br>    
+                    pip install opencv-contrib-python |
 * 그 외 필요한 라이브러리는 수업시간에 설치 안내함
