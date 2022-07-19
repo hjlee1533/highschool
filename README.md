@@ -12,7 +12,7 @@
 
 ### # 수업 관련 사이트 ###
 - **과정메인(Notion)**  https://boulder-source-fc6.notion.site/be3b4ba173aa41fcb9857c29d7b0b290 
-- **수업중실습코드(Slack)** https://app.slack.com/client/T03MQ5EE388/C03NZ7T5FB4 
+- **수업중실습코드(Slack)** https://app.slack.com/client/T03Q3FG5Q3W/C03PLEY0T9D 
 - **자료공유(GoogleDrive)** https://drive.google.com/drive/folders/1xJWJ__3oSsOEcXHLg54cvQqvP8C_RxTf 
 - **완성코드(Github)** https://github.com/Joyschool/highschool/blob/main/README.md
 
